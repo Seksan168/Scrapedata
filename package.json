@@ -1,5 +1,11 @@
 {
   "dependencies": {
-    "puppeteer": "^24.3.0"
+    "@prisma/client": "^6.4.1",
+    "franc": "^6.2.0",
+    "fs": "^0.0.1-security",
+    "languagedetect": "^2.0.0",
+    "puppeteer": "^24.3.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
   }
 }
